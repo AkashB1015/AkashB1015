@@ -8,8 +8,11 @@
 - 🌐 Develop responsive applications and projects.
 
 - 🚀 Managed back-end development for seamless data management and server-side logic.
-  
+  ![output-onlinegiftools](https://github.com/user-attachments/assets/b6ab5601-c0c4-405c-b7c4-491fb9078c48)
+
 <h1 align="center"><img src="https://github.com/user-attachments/assets/c72fed01-bbd0-4935-9064-5f6751b6299e " alt=""></h1>
+
+<h1 align="center"><img src="https://github.com/user-attachments/assets/b6ab5601-c0c4-405c-b7c4-491fb9078c48" alt=""></h1>
 </p>
 <br>
 <h3 align="left">Languages and Tools:</h3>
