@@ -9,6 +9,8 @@
 
 - 📫 How to reach me **akashbhadane7227@gmail.com**
 <br>
+![hadder](https://github.com/user-attachments/assets/88cd9692-2cea-4a22-ad27-dd07b0f94a6f)
+
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
