@@ -1,4 +1,4 @@
-<h1 align="left">👋Hi, I'm Akash Bhadane</h1>
+<h1 align="center">👋Hi, I'm Akash Bhadane</h1>
 <h3 align="center">I'm computer science engineer</h3>
 
 - 🔭 I’m currently working on **WebDevelopment Projects**
