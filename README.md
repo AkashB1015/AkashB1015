@@ -12,7 +12,7 @@
 <h1 align="center"><img src="" alt=""><img alt="GIF" src="https://github.com/user-attachments/assets/69124450-c85a-41de-b3be-243e7ef53492" style="max-width: 80%; display: inline-block;" data-target="animated-image.originalImage"></h1>
 <br>
 <div class="markdown-heading" dir="auto">
-  <h3 class="heading-element" dir="auto">Interests</h3>
+  <h3 class="heading-element" dir="auto">Interests:</h3>
   <a id="user-content-interests" class="anchor" aria-label="Permalink: Interests" href="#interests">
     <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true">
       <path d="M7.775 3.275h-1.25L3.25 5a3.5 3.5 0 0 1 1.495-4.951 2.5 2.5 0 0 1 3.5 3.5L8.531 5.25h1.25L10.5 3.775A3.5 3.5 0 0 1 8.75 1.25a2.5 2.5 0 0 1-3.5-3.5L1.25 1.25a3.5 3.5 0 0 1 3.5-3.5z"></path>
