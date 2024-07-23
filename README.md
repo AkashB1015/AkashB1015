@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Akash Bhadane</h1>
-<h3 align="center">A passionate Software developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akashb1015&label=Profile%20views&color=0e75b6&style=flat" alt="akashb1015" /> </p>
+<h1 align="center">👋Hi, I'm Akash Bhadane</h1>
+<h3 align="center">I'm computer science engineer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akashb1015" alt="akashb1015" /></a> </p>
 
 - 🔭 I’m currently working on **WebDevelopment Projects**
 
 - 🌱 I’m currently learning **Android Programming , JavaScript**
+
+- 💬 Ask me about **java , python**
 
 - 📫 How to reach me **akashbhadane7227@gmail.com**
 
