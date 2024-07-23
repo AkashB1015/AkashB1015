@@ -8,9 +8,8 @@
 - 🌐 Develop responsive applications and projects.
 
 - 🚀 Managed back-end development for seamless data management and server-side logic.
-
-
-<h1 align="center">![hadder](https://github.com/user-attachments/assets/c72fed01-bbd0-4935-9064-5f6751b6299e) </h1>
+  
+<h1 align="center"><img src="https://github.com/user-attachments/assets/c72fed01-bbd0-4935-9064-5f6751b6299e " alt=""></h1>
 </p>
 <br>
 <h3 align="left">Languages and Tools:</h3>
