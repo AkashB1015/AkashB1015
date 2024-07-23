@@ -9,9 +9,9 @@
 
 - 📫 How to reach me **akashbhadane7227@gmail.com**
 <br>
-![hadder](https://github.com/user-attachments/assets/88cd9692-2cea-4a22-ad27-dd07b0f94a6f)
 
-  
+  ![hadder](https://github.com/user-attachments/assets/1043c7f2-f808-4a2c-b330-da159a60714e)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/akash-bhadane3501" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akash-bhadane3501" height="30" width="40" /></a>
