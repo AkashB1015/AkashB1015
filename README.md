@@ -1,5 +1,4 @@
 <h1 align="center">👋Hi, I'm Akash Bhadane</h1>
-<hr>
 - 💻 Worked on many different technologies.
 
 - 🤝 Collaborated with cross-functional teams to deliver high-quality products.
