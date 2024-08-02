@@ -39,10 +39,18 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akashb1015&" alt="akashb1015" /></p>
 <br>
 <hr>
-<h3 align="left">Connect with me :</h3>
-<p align="left">
-<a href="https://linkedin.com/in/akash-bhadane3501" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akash-bhadane3501" height="30" width="40" /></a>
-<a href="https://instagram.com/mr.akash.3501" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr.akash.3501" height="30" width="40" /><div align="left">
-  
-</div>
-</a>
+<h3 align="center">Connect with Me</h3>
+<p align="center">
+  <a href="mailto:akashbhadane7227@gmail.com" target="_blank">
+    <img align="center" src="assets/gmail.png" alt="mail" height="50" width="55" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://samarjit-sahoo.vercel.app" target="_blank">
+    <img align="center" src="assets/web.png" alt="website" height="50" width="50" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="www.linkedin.com/in/akash-bhadane3501" target="_blank">
+    <img align="center" src="assets/linkedin.png" alt="linkedin" height="60" width="60" />
+  </a>
+</p>
+<p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=Go+to+Top&color=0b6ab3&style=flat&logo" alt="Go to Top" /></a></p>
