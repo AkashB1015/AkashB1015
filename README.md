@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/e4791f05-93d1-4cf5-b413-c9235979f7fb)
+
 <h1 align="center">👋Hi, I'm Akash Bhadane</h1>
 - 💻 Worked on many different technologies.
 
