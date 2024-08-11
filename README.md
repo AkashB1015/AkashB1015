@@ -79,7 +79,7 @@
     </a>&emsp;
     <a href="https://developer.android.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40" style="margin-right: 30px;"/>
-    </a>&emsp;
+    </a>
 </p>
 
 <br>
