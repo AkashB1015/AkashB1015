@@ -4,7 +4,7 @@
 </h1>
 
 
-- 💻 Worked on many different technologies.
+-- 💻 Worked on many different technologies.
 
 - 🤝 Collaborated with cross-functional teams to deliver high-quality products.
 
