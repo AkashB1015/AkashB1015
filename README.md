@@ -1,7 +1,8 @@
 
 <h1 align="center">👋Hi, I'm Akash Bhadane</h1>
 
-![new banner ](https://github.com/user-attachments/assets/816b40ec-465b-41ca-9840-de7c9fedf9bc)
+![Akash Bhadane](https://github.com/user-attachments/assets/ddaa1940-59ac-40be-acd9-79c3cbeb5c99)
+
 
 
 - 💻 Worked on many different technologies.
