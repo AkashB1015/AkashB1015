@@ -77,8 +77,10 @@
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" style="margin-right: 30px;"/>
     </a>&emsp;
-   
-    </a>
+  <a href="https://developer.android.com" target="_blank" rel="noreferrer" style="margin-right: 30px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
+    </a>  
+    
 </p>
 
 <br>
