@@ -2,8 +2,6 @@
 <h1 align="center">👋Hi, I'm Akash Bhadane</h1>
 
 ![Akash Bhadane](https://github.com/user-attachments/assets/ddaa1940-59ac-40be-acd9-79c3cbeb5c99)
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-
 
 - 💻 Worked on many different technologies.
 
@@ -14,7 +12,7 @@
 - 🚀 Managed back-end development for seamless data management and server-side logic.
 </p>
 <br>
-<h1 align="center"><img src="" alt=""><img alt="GIF" src="https://github.com/user-attachments/assets/69124450-c85a-41de-b3be-243e7ef53492" style="max-width: 80%; display: inline-block;" data-target="animated-image.originalImage"></h1>
+// <h1 align="center"><img src="" alt=""><img alt="GIF" src="https://github.com/user-attachments/assets/69124450-c85a-41de-b3be-243e7ef53492" style="max-width: 80%; display: inline-block;" data-target="animated-image.originalImage"></h1>
 <br>
 <div class="markdown-heading" dir="auto">
   <h3 class="heading-element" dir="auto">Interests :</h3>
