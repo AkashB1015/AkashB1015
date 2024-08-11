@@ -1,5 +1,9 @@
 
 <h1 align="center">👋Hi, I'm Akash Bhadane</h1>
+
+![new banner ](https://github.com/user-attachments/assets/816b40ec-465b-41ca-9840-de7c9fedf9bc)
+
+
 - 💻 Worked on many different technologies.
 
 - 🤝 Collaborated with cross-functional teams to deliver high-quality products.
