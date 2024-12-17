@@ -13,10 +13,6 @@
 - 🚀 Managed back-end development for seamless data management and server-side logic.
 </p>
 <br>
-
-![coding](https://github.com/user-attachments/assets/e0382763-7717-4899-8d02-76a70ea2b5a3)
-
-<br>
 <h1 align="center"><img src="" alt=""><img alt="GIF" src="https://github.com/user-attachments/assets/69124450-c85a-41de-b3be-243e7ef53492" style="max-width: 80%; display: inline-block;" data-target="animated-image.originalImage"></h1>
 <br>
 <div class="markdown-heading" dir="auto">
